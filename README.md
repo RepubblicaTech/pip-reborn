@@ -16,7 +16,7 @@ A new implementation of pip to integrate in your code!
 
 1. Importing the pip file (i've put it in a `py_libs` folder inside my code)
 
-2. Executing the `upgrade()` function
+2. Executing the `pip,install()` function
 
 # Functions
 
