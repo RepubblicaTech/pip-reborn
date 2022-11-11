@@ -14,7 +14,7 @@ A new implementation of pip to integrate in your code!
 
 ![image](https://user-images.githubusercontent.com/76620155/201388406-fa3a7895-8693-4731-b730-2c487a93e37b.png)
 
-1. Importing the pip file (i put it in a `py_libs` folder inside my code)
+1. Importing the pip file (i've put it in a `py_libs` folder inside my code)
 
 2. Executing the `upgrade()` function
 
