@@ -32,4 +32,4 @@ Upgrades the package in parenthesees
 # Future projects
 
 - [x] Implementing `upgrade` function
-- [ ] Add the possibility to install/upgrade multiple packages at once (e.g `pip.install('wget', 'tqdm', 'requests')`)
+- [x] Add the possibility to install/upgrade multiple packages at once (e.g `pip.install('wget', 'tqdm', 'requests')`)
