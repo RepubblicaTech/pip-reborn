@@ -1,6 +1,7 @@
 # Pip-Reborn
 
 A new implementation of pip to integrate in your code!
+### 03/2024 Update: now you can call the function and install more packages at once, e.g.: `pip.install('tqdm', 'wget', 'customtkinter')`
 
 # Easy instructions
 
